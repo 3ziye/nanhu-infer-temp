@@ -1,0 +1,5 @@
+apiVersion: v2
+name: nanhu-infer
+description: A Helm chart for deploying nanhu-infer controller
+version: 0.1.0
+appVersion: "1.0.0"
