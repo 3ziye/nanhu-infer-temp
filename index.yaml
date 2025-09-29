@@ -1,0 +1,46 @@
+apiVersion: v1
+entries:
+  nanhu-infer:
+  - apiVersion: v2
+    appVersion: v0.0.2
+    created: "2025-09-30T13:51:36.36228531+08:00"
+    description: 面向国产推理集群的高吞吐量、低延迟推理框架 Helm Chart
+    digest: e3483f5187739ca76e6991aaf7361e65f9f0e4bf4fa80446726bf10bfb80a5c1
+    home: https://3ziye.github.io/nanhu-infer-temp/
+    keywords:
+    - 智算
+    - 国产算力
+    - 推理框架
+    - nanhu-infer
+    maintainers:
+    - email: support.nanhuinfer@zhejianglab.org
+      name: ycc / 3ziye
+    name: nanhu-infer
+    sources:
+    - https://github.com/3ziye/nanhu-infer-temp
+    type: application
+    urls:
+    - https://3ziye.github.io/nanhu-infer-temp/nanhu-infer-v0.0.2.tgz
+    version: v0.0.2
+  - apiVersion: v2
+    appVersion: v0.0.1
+    created: "2025-09-30T13:51:36.360397489+08:00"
+    description: 面向国产推理集群的高吞吐量、低延迟推理框架 Helm Chart
+    digest: 1f9dde05b46bd339f0b6851ed9820df2a4499f32ff80376c2f782e51448d6113
+    home: https://github.com/3ziye/nanhu-infer-temp
+    keywords:
+    - 智算
+    - 国产算力
+    - 推理框架
+    - nanhu-infer
+    maintainers:
+    - email: support.nanhuinfer@zhejianglab.org
+      name: 你的名字/团队名
+    name: nanhu-infer
+    sources:
+    - https://github.com/3ziye/nanhu-infer-temp
+    type: application
+    urls:
+    - https://3ziye.github.io/nanhu-infer-temp/nanhu-infer-v0.0.1.tgz
+    version: v0.0.1
+generated: "2025-09-30T13:51:36.358736467+08:00"
