@@ -1,7 +1,7 @@
 apiVersion: v2          # 必须为 v2（Helm 3 标准）
 name: nanhu-infer       # 与仓库名一致，Artifact Hub 按此匹配
-version: v0.0.2          # 语义化版本（如 0.1.0，每次更新需递增）
-appVersion: v0.0.2       # 对应 nanhu-infer 应用版本（与 Chart 版本可一致）
+version: v0.0.3          # 语义化版本（如 0.1.0，每次更新需递增）
+appVersion: v0.0.3       # 对应 nanhu-infer 应用版本（与 Chart 版本可一致）
 description: 面向国产推理集群的高吞吐量、低延迟推理框架 Helm Chart  # 简短描述（Artifact Hub 列表页展示）
 type: application       # 固定为 application（表示应用类 Chart）
 keywords:               # 关键词（方便用户搜索，至少3个）
